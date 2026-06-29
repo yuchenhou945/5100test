@@ -18,15 +18,5 @@
                 "type": "firmware"
             }
         ]
-    },
-    {
-        "model": "SCT-IPEW5100",
-        "files": [
-            {
-                "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPEW_v1.10.9.bin",
-                "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPEW_v1.10.9.hash",
-                "type": "firmware"
-            }
-        ]
     }
 ]

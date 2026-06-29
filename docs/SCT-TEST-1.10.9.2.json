@@ -1,0 +1,12 @@
+[
+  {
+    "model": "SCT-IPD5100",
+    "files": [
+      {
+        "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.10.9.2.bin",
+        "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.10.9.2.hash",
+        "type": "firmware"
+      }
+    ]
+  }
+]

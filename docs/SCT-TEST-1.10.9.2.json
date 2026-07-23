@@ -1,10 +1,10 @@
 [
     {
-        "model": "SCT-IPD5100",
+        "model": "SCT-IPE5100",
         "files": [
             {
-                "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.10.9.2.bin",
-                "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.10.9.2.hash",
+                "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPE_v1.12.2.44.bin",
+                "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPE_v1.12.2.44.hash",
                 "type": "firmware"
             },
       {
@@ -15,11 +15,11 @@
         ]
     },
     {
-        "model": "SCT-IPE5100",
+        "model": "SCT-IPD5100",
         "files": [
             {
-                "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPE_v1.10.9.2.bin",
-                "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPE_v1.10.9.2.hash",
+                "url": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.12.2.44.bin",
+                "md5hash": "https://yuchenhou945.github.io/5100test/docs/SCTIPD_v1.12.2.44.hash",
                 "type": "firmware"
             }
         ]
